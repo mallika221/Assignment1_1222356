@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1_Mallika</string>
+    <string-array name="priority_items">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
